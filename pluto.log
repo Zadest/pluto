@@ -1822,3 +1822,36 @@ INFO:root:move /home/moritz/Downloads/test.pdf to /home/moritz/Documents/test.pd
 2019-12-11 11:48:31,271 [INFO] : move /home/moritz/Downloads/hacking_artofexploitation_2ndedition.pdf to /home/moritz/Documents/hacking_artofexploitation_2ndedition.pdf
 2019-12-11 11:48:34,885 [INFO] : Recieved modified event - /home/moritz/Downloads/blackhatpython.pdf
 2019-12-11 11:48:34,885 [INFO] : move /home/moritz/Downloads/blackhatpython.pdf to /home/moritz/Documents/blackhatpython.pdf
+2019-12-11 14:40:45,340 [INFO] : Pluto started
+2019-12-11 14:45:40,601 [INFO] : Pluto started
+2019-12-11 14:47:40,794 [INFO] : Recieved modified event - /home/moritz/Downloads/test.pdf
+2019-12-11 14:47:40,795 [INFO] : move /home/moritz/Downloads/test.pdf to /home/moritz/Documents/test.pdf
+2019-12-11 14:48:07,668 [INFO] : Recieved modified event - /home/moritz/Downloads/automatetheboringstuffwithpython_new1.pdf
+2019-12-11 14:48:07,669 [INFO] : move /home/moritz/Downloads/automatetheboringstuffwithpython_new1.pdf to /home/moritz/Documents/automatetheboringstuffwithpython_new1.pdf
+2019-12-11 14:48:07,672 [INFO] : Recieved modified event - /home/moritz/Downloads/automatetheboringstuffwithpython_new1.pdf
+2019-12-11 14:48:07,674 [INFO] : move /home/moritz/Downloads/automatetheboringstuffwithpython_new1.pdf to /home/moritz/Documents/automatetheboringstuffwithpython_new1.pdf
+2019-12-12 18:06:15,427 [INFO] : Pluto started
+2019-12-12 18:09:17,391 [INFO] : Recieved modified event - /home/moritz/Downloads/test.pdf
+2019-12-12 18:09:17,391 [INFO] : move /home/moritz/Downloads/test.pdf to /home/moritz/Documents/test.pdf
+2019-12-12 18:10:18,460 [INFO] : Recieved modified event - /home/moritz/Downloads/.profil1.jpg.swp
+2019-12-12 18:13:47,071 [INFO] : Pluto started
+2019-12-12 18:13:47,072 [INFO] : {'DIR': '/home/moritz/Downloads', 'pdf': '/home/moritz/Documents', 'png': '/home/moritz/Pictures', 'bmp': '/home/moritz/Pictures', 'jpg': '/home/moritz/Pictures'}
+2019-12-12 18:14:02,964 [INFO] : Pluto started
+2019-12-12 18:14:02,964 [INFO] : {'DIR': '/home/moritz/Downloads', 'pdf': '/home/moritz/Documents', 'png': '/home/moritz/Pictures', 'bmp': '/home/moritz/Pictures', 'jpg': '/home/moritz/Pictures'}
+2019-12-12 18:14:21,167 [INFO] : Pluto started
+2019-12-12 18:14:21,168 [INFO] : {'DIR': '/home/moritz/Downloads', 'pdf': '/home/moritz/Documents', 'png': '/home/moritz/Pictures', 'bmp': '/home/moritz/Pictures', 'jpg': '/home/moritz/Pictures'}
+2019-12-12 18:23:08,127 [INFO] : Pluto started
+2019-12-12 18:23:08,127 [INFO] : {'DIR': '/home/moritz/Downloads', 'pdf': '/home/moritz/Documents', 'png': '/home/moritz/Pictures', 'bmp': '/home/moritz/Pictures', 'jpg': '/home/moritz/Pictures'}
+2019-12-12 18:23:18,614 [INFO] : Pluto started
+2019-12-12 18:23:18,615 [INFO] : {'DIR': '/home/moritz/Downloads', 'pdf': '/home/moritz/Documents', 'png': '/home/moritz/Pictures', 'bmp': '/home/moritz/Pictures', 'jpg': '/home/moritz/Pictures'}
+2019-12-12 18:23:48,132 [INFO] : Recieved modified event - /home/moritz/Downloads/test.jpg
+2019-12-12 18:23:48,133 [INFO] : move /home/moritz/Downloads/test.jpg to /home/moritz/Pictures/test.jpg
+2019-12-12 18:24:54,657 [INFO] : Recieved modified event - /home/moritz/Downloads/profil.jpg
+2019-12-12 18:24:54,658 [INFO] : move /home/moritz/Downloads/profil.jpg to /home/moritz/Pictures/profil.jpg
+2019-12-12 18:24:55,661 [INFO] : Recieved modified event - /home/moritz/Downloads/profil.jpg
+2019-12-12 18:24:55,661 [INFO] : move /home/moritz/Downloads/profil.jpg to /home/moritz/Pictures/profil.jpg
+2019-12-12 18:25:52,370 [INFO] : Pluto started
+2019-12-12 18:25:52,371 [INFO] : {'DIR': '/home/moritz/Downloads', 'pdf': '/home/moritz/Documents', 'png': '/home/moritz/Pictures', 'bmp': '/home/moritz/Pictures', 'jpg': '/home/moritz/Pictures'}
+2019-12-12 18:29:46,405 [INFO] : Pluto started
+2019-12-12 18:29:46,405 [INFO] : {'DIR': '/home/moritz/Downloads', 'pdf': '/home/moritz/Documents', 'png': '/home/moritz/Pictures', 'bmp': '/home/moritz/Pictures', 'jpg': '/home/moritz/Pictures'}
+2019-12-12 18:34:35,606 [INFO] : Recieved modified event - /home/moritz/Downloads/credentials.json

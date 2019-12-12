@@ -32,7 +32,8 @@ class Handler(FileSystemEventHandler):
         logging.basicConfig(filename="pluto.log",level=logging.INFO,format='%(asctime)s [%(levelname)s] : %(message)s')
         logging.info('Pluto started')
         self.Config = pConfig
-    
+        logging.info(self.Config)
+
     def on_modified(self,event):
         if event.is_directory:
             return None
@@ -41,8 +42,13 @@ class Handler(FileSystemEventHandler):
         if self.Config.get(file_type):
             newFullPath = self.Config.get(file_type)+'/'+event.src_path.split('/')[-1]
             logging.info(f'move {event.src_path} to {newFullPath}')
+            historicalSize = -1
+            while (historicalSize != os.path.getsize(event.src_path)):
+                historicalSize = os.path.getsize(event.src_path)
+                time.sleep(1)
+
             os.rename(event.src_path, newFullPath)
-        else:
+        elif file_type != 'swp' and file_type != 'part':
             with open("unknown-endings.json", "r") as f:
                 lines = f.readlines()
             if len(lines) <= 2:
