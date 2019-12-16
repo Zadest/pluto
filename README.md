@@ -2,12 +2,13 @@
 Watchdog **pluto** cares for your downloads-folder
 
 
-#### Table of Contents
+### Table of Contents
 [Setup](#setup)
 
 
-<a name="#setup"/>
+<a name="#setup">
 ## setup
+</a>
 ### cloning git
 ```
 git clone https://github.com/Zadest/pluto
