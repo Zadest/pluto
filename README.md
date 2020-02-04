@@ -16,7 +16,7 @@ git clone https://github.com/Zadest/pluto
 ### creating pluto.cf
 ```
 touch pluto.cf
-$EDITON pluto.cf
+$EDITOR pluto.cf
 ```
 ! Note ! :  pluto.cf is the configuration file for the pluto daemon and is written as JSON.
 Example :
